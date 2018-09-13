@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70CD-7434
+
+ Directory of C:\JavaProject
+
+13-09-2018  14:49    <DIR>          .
+13-09-2018  14:49    <DIR>          ..
+13-09-2018  14:23               175 Hello.java
+13-09-2018  14:49                 0 read.txt
+               2 File(s)            175 bytes
+               2 Dir(s)  77,251,088,384 bytes free
